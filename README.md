@@ -1,8 +1,8 @@
 # cGcC
 A simple python3 implementation of cGcC score algorithm.
-cGcC is an algorithm proposed by Jean-Denis Beaudoin et al in 2013 that can be used to characterized the formation capabilities of RNA G-quadruplexes.
+cGcC is an algorithm proposed by Jean-Denis Beaudoin *et al.* in 2013 that can be used to characterized the formation capabilities of RNA G-quadruplexes.
 
-The script can be easily executed under the python3 environment (python3.6 is recommended, for that other python versions are not tested).
+The script can be easily executed under the **python3** environment (**python3.6 is recommended**, for that other python versions are not tested).
 
 **STEP**
 
@@ -12,7 +12,7 @@ The script can be easily executed under the python3 environment (python3.6 is re
 ```python3
 # -i inputfile path
 # -o outputfile path
-python3 cGcC.py -i input.txt -o output.txt 
+python cGcC.py -i input.txt -o output.txt 
 ```
 please note, the input file should contains one column, for each line including one sequence.
 Below is the example of input file
