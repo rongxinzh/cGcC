@@ -1,6 +1,6 @@
 # cGcC
-A simple python3 implementation of cGcC score algorithm.
-cGcC is an algorithm proposed by Jean-Denis Beaudoin *et al.* in 2013 that can be used to characterized the formation capabilities of RNA G-quadruplexes.
+A simple python3 implementation of cG/cC score algorithm.
+cG/cC scoring system is an algorithm proposed by Jean-Denis Beaudoin *et al.* in 2013 that can be used to characterized the formation capabilities of RNA G-quadruplexes.
 
 The script can be easily executed under the **python3** environment (**python3.6 is recommended**, for that other python versions are not tested).
 
