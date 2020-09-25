@@ -5,7 +5,9 @@ cGcC is an algorithm proposed by Jean-Denis Beaudoin et al in 2013 that can be u
 The script can be easily executed under the python3 environment (python3.6 is recommended, for that other python versions are not tested).
 
 **STEP**
+
 **s1: Download the source code of cGcC from github.**
+
 **s2: Execute the python script.**
 ```python3
 # -i inputfile path
